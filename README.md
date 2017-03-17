@@ -1,2 +1,2 @@
 # Race-with-Gmapping-and-AMCL
-Competition 3
+CMPUT412 Competition3
